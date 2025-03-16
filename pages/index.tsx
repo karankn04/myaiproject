@@ -13,8 +13,6 @@ export default function Home() {
       this is my first project my chsnhrsdfsd sd f sdf sd f
       <div>
 
-        // add a date picker here
-        //
         <input type="date" />
         <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
      <input type="text" />
